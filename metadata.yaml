@@ -1,5 +1,5 @@
 _repo: L-Abbe-Constantin-Volume-1_3954
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Clergy -- France -- Fiction'
 - !lcsh 'Catholic Church -- Clergy -- Fiction'
 - !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
 title: L'Abbe Constantin — Volume 1
 url: http://www.gutenberg.org/ebooks/3954
